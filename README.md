@@ -1,6 +1,6 @@
 # Eye Disease Image Classification (TFLite)
 
-This project is a deep learning image classification model trained to identify multiple retinal and eye diseases using fundus images.
+This project is a deep learning image classification model trained to identify multiple eye diseases using retinal eye images.
 
 ## Model
 - Architecture: MobileNetV2 / EfficientNet (Transfer Learning)

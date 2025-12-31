@@ -6,7 +6,7 @@ This project is a deep learning image classification model trained to identify m
 - Architecture: MobileNetV2 / EfficientNet (Transfer Learning)
 - Framework: TensorFlow
 - Export format: TensorFlow Lite (.tflite)
-- Accuracy: ~75–85% validation accuracy
+- Accuracy: ~81% validation accuracy
 
 ## Dataset
 - Source: Kaggle Eye Disease Image Dataset
